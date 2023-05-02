@@ -1,0 +1,2 @@
+# pygame
+clase de pygame
